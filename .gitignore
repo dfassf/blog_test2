@@ -1,0 +1,7 @@
+node_modules/*
+.next/*
+.eslintrc
+package-lock.json
+*shinwoo-mac.pem
+memo.md
+shinwoo-mac
